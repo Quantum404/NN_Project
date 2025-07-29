@@ -1,1 +1,1 @@
-## NPrediction of real estate pricing
+## Prediction of real estate pricing
