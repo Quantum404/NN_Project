@@ -1,2 +1,1 @@
-# NN_Project
-Prediction of real estate pricing
+## NPrediction of real estate pricing
